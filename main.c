@@ -1,14 +1,9 @@
 #include<stdio.h>
 
-struct CheckIn
-{
-  int bags;
-  int weight_check;
-};
 
-int board(int bags)
+bool boarding()
 {
-return 0;
+    return true;
 }
 int main()
 {
@@ -24,6 +19,8 @@ int main()
     printf("Thanks for Choosing Cathy Pacific");
 
     printf("Please proceed to Boarding");
+
+
 
     
  }
